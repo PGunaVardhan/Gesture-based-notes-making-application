@@ -43,6 +43,4 @@ The **web-based interface** further enhances the user experience by providing an
 
 ---
 
-## Conclusion
-
-The Hand Gesture-Based Notes Making application represents a step forward in leveraging hand gesture recognition for user-friendly and interactive note-taking. By combining gesture recognition, real-time video processing, and text extraction, this project showcases the potential of advanced computer vision and machine learning techniques in creating innovative and practical applications.
+Chekcout the report for clear details.
