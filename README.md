@@ -43,4 +43,9 @@ The **web-based interface** further enhances the user experience by providing an
 
 ---
 
-Chekcout the report for clear details.
+![image](https://github.com/user-attachments/assets/431bcb09-d061-4020-91f2-7925f1e83ee0)
+
+![image](https://github.com/user-attachments/assets/57c22977-a7d1-4389-96e6-2f01bf0e68cf)
+
+
+Chekcout the report for more details.
